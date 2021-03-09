@@ -29,7 +29,7 @@ export default function Home() {
           <a href="https://ruaearte.com.br" className="card">
             <h3>Loja</h3>
           </a>
-          <a href="https://www.instagram.com/pico_de_jaca/" className="card">
+          <a href="https://www.instagram.com/paradise_manaos/" className="card">
             <h3>Instagram</h3>
           </a>
           <a href="https://api.whatsapp.com/send?phone=559294435181&text=Texto%20aqui" className="card">
