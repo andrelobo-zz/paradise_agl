@@ -158,7 +158,8 @@ export default function Home() {
         .card h3 {
           margin: 0 3rem 0 3rem;
           font-size: 1.0rem;
-          font-weight:500;
+          font-weight:300;
+         
         }
 
         .footer {
@@ -199,14 +200,18 @@ export default function Home() {
         }
       `}</style>
 
-      <style jsx global>{`
+<style jsx global>{`
         html,
         body {
           padding: 0;
           margin: 0;
-          font-weight:500;
-          font-family:  Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+            Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
             sans-serif;
+        }
+        @font-face {
+          font-family: 'barriosanto';
+          src: local('barriosanto'), url(./fonts/barriosanto.otf) format('opentype');
         }
 
         * {
