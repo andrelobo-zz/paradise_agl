@@ -33,7 +33,10 @@ export default function Home() {
             <h3>Instagram</h3>
           </a>
           <a href="https://api.whatsapp.com/send?phone=559294435181&text=Texto%20aqui" className="card">
-          <h3>Whatsapp</h3>
+          <h3>Whatsapp Paradise</h3>
+          </a>
+          <a href="https://api.whatsapp.com/send?phone=5592981493108&text=Texto%20aqui" className="card">
+          <h3>Whatsapp R.U.A</h3>
           </a>
           <a href="https://ruaearte.com.br/pico-de-jaca/" className="card">
             <h3>Bio</h3>
