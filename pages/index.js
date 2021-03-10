@@ -86,6 +86,7 @@ export default function Home() {
         .title a {
           color: #fff;
           text-decoration: none;
+          
         }
 
         .title a:hover,
@@ -95,18 +96,26 @@ export default function Home() {
           text-decoration: underline;
         }
 
+        .h3{
+
+          font-size: 4rem;
+          
+        }
+
         .title {
           margin: 0;
           line-height: 1.15;
           font-size: 4rem;
+          
         }
 
         .description {
           color: #fff;
           text-align: center;
           line-height: 1.5;
-          font-size: 1.5rem;
+          font-size: 2.5rem;
           margin: 0.5rem 1rem;
+          font-family: Barrio Santo;
         }
 
         .grid {
@@ -125,26 +134,28 @@ export default function Home() {
           padding: 1.5rem;
           text-align: center;
           background: #000;
-
           color: #fff;
           text-decoration: none;
-          
+          border: 1px solid #eaeaea;
           border-radius: 10px;
           transition: color 0.15s ease, border-color 0.15s ease;
           min-width: 350px;
+          
+        }
         }
 
         .card:hover,
         .card:focus,
         .card:active {
-          color: #fff;
+          color: #000000;
          
           background-color:#6cfe40;
         }
 
         .card h3 {
           margin: 0 3rem 0 3rem;
-          font-size: 1.5rem;
+          font-size: 1.0rem;
+          font-weight:500;
         }
 
         .footer {
@@ -190,7 +201,8 @@ export default function Home() {
         body {
           padding: 0;
           margin: 0;
-          font-family:  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+          font-weight:500;
+          font-family:  Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
             sans-serif;
         }
 
