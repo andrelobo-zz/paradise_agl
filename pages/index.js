@@ -58,7 +58,7 @@ export default function Home() {
 
       <style jsx>{`
         .container {
-          background-color:#000;
+          background-color:#000000;
           min-height: 100vh;
           padding: 0 0.5rem;
           display: flex;
@@ -170,7 +170,7 @@ export default function Home() {
           display: flex;
           justify-content: center;
           align-items: center;
-          background-color:#region 000;
+          background-color:#000000;
         }
 
         /** Dark mode */
@@ -211,7 +211,7 @@ export default function Home() {
         }
         @font-face {
           font-family: 'barriosanto';
-          src: local('barriosanto'), url(./fonts/barriosanto.otf) format('opentype');
+          src: local('barriosanto'), url(./fonts/barriosanto.ttf) format('opentype');
         }
 
         * {
