@@ -80,7 +80,12 @@ export default function Home() {
           border-radius: 50%;
           width: 200px;
         }
-
+        
+        @font-face {
+          font-family: 'barriosanto';
+          src: local('barriosanto'), url(./fonts/barriosanto.ttf) format('opentype');
+        }
+        
         a {
           color: #fff;
           text-decoration: none;
