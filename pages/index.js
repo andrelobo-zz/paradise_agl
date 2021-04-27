@@ -32,13 +32,13 @@ export default function Home() {
           <a href="https://www.instagram.com/paradise_manaos/" className="card">
             <h3>Instagram</h3>
           </a>
-          <a href="https://api.whatsapp.com/send?phone=559294435181&text=Texto%20aqui" className="card">
+          <a href="https://api.whatsapp.com/send?phone=55 9294410183&text=Texto%20aqui" className="card">
           <h3>Whatsapp Paradise</h3>
           </a>
           <a href="https://api.whatsapp.com/send?phone=5592981493108&text=Texto%20aqui" className="card">
           <h3>Whatsapp R.U.A</h3>
           </a>
-          <a href="https://ruaearte.com.br/pico-de-jaca/" className="card">
+          <a href="https://ruaearte.com.br/paradise" className="card">
             <h3>Bio</h3>
           </a>
           
