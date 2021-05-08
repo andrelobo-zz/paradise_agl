@@ -32,7 +32,7 @@ export default function Home() {
           <a href="https://www.instagram.com/diparadise_99/" className="card">
             <h3>Instagram</h3>
           </a>
-          <a href="https://api.whatsapp.com/send?phone=559294410183&text=Texto%20aqui" className="card">
+          <a href="https://api.whatsapp.com/send?phone=559282709693&text=Texto%20aqui" className="card">
           <h3>Whatsapp Paradise</h3>
           </a>
           <a href="https://api.whatsapp.com/send?phone=5592981493108&text=Texto%20aqui" className="card">
@@ -123,7 +123,7 @@ export default function Home() {
           line-height: 1.5;
           font-size: 2.5rem;
           margin: 0.5rem 1rem;
-          font-family: Barrio Santo;
+          font-family: 'barriosanto' ;
         }
 
         .grid {
