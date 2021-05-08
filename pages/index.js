@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Paradise</title>
+        <title>Flávio Tial</title>
         <link rel="icon" href="favicon.ico" />
         <script
           async
@@ -24,21 +24,20 @@ export default function Home() {
 
       <main>
         <img className="image" src="profile.png" />
-        <h3 className="description">Paradise</h3>
         <div className="grid">
           <a href="https://ruaearte.com.br" className="card">
             <h3>Loja</h3>
           </a>
-          <a href="https://www.instagram.com/diparadise_99/" className="card">
+          <a href="https://www.instagram.com/tialflavio/" className="card">
             <h3>Instagram</h3>
           </a>
-          <a href="https://api.whatsapp.com/send?phone=559282709693&text=Texto%20aqui" className="card">
-          <h3>Whatsapp Paradise</h3>
+          <a href="https://api.whatsapp.com/send?phone=5592982741921&text=Texto%20aqui" className="card">
+          <h3>Whatsapp Tial</h3>
           </a>
           <a href="https://api.whatsapp.com/send?phone=5592981493108&text=Texto%20aqui" className="card">
           <h3>Whatsapp R.U.A</h3>
           </a>
-          <a href="https://ruaearte.com.br/paradise" className="card">
+          <a href="https://ruaearte.com.br/tial" className="card">
             <h3>Bio</h3>
           </a>
           
@@ -181,7 +180,7 @@ export default function Home() {
         /** Dark mode */
         @media (prefers-color-scheme: dark) {
           .container {
-            background: rgb(53, 53, 53);
+            background: rgb(0, 0, 0);
           }
           .description {
             color: white;
