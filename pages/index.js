@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Flávio Tial</title>
+        <title>Di Paradise</title>
         <link rel="icon" href="favicon.ico" />
         <script
           async
@@ -31,13 +31,13 @@ export default function Home() {
           <a href="https://www.instagram.com/tialflavio/" className="card">
             <h3>Instagram</h3>
           </a>
-          <a href="https://api.whatsapp.com/send?phone=5592982741921&text=Texto%20aqui" className="card">
-          <h3>Whatsapp Tial</h3>
+          <a href="https://api.whatsapp.com/send?phone=5592982709693&text=Texto%20aqui" className="card">
+          <h3>Whatsapp Paradise</h3>
           </a>
           <a href="https://api.whatsapp.com/send?phone=5592981493108&text=Texto%20aqui" className="card">
           <h3>Whatsapp R.U.A</h3>
           </a>
-          <a href="https://ruaearte.com.br/tial" className="card">
+          <a href="https://ruaearte.com.br/paradise" className="card">
             <h3>Bio</h3>
           </a>
           
